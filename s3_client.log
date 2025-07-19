@@ -1,0 +1,21 @@
+2025-07-19 18:29:42,379 - S3 - INFO - Generated local_folder\data_1752924582.csv
+2025-07-19 18:29:42,379 - S3 - INFO - Processing file: local_folder\data_1752924582.csv
+2025-07-19 18:29:42,392 - S3 - INFO - File local_folder\data_1752924582.csv filtered and saved to temp_filtered.csv
+2025-07-19 18:29:42,820 - S3 - INFO - Sent: temp_filtered_20250719_182942.csv
+2025-07-19 18:29:43,118 - S3 - INFO - Sent: s3_client.log
+2025-07-19 18:29:43,120 - S3 - INFO - Moved local_folder\data_1752924582.csv to archive_folder\data_1752924582.csv
+2025-07-19 18:29:43,120 - S3 - INFO - Deleted temp_filtered.csv
+2025-07-19 18:29:47,395 - S3 - INFO - Generated local_folder\data_1752924587.csv
+2025-07-19 18:29:47,396 - S3 - INFO - Processing file: local_folder\data_1752924587.csv
+2025-07-19 18:29:47,407 - S3 - INFO - File local_folder\data_1752924587.csv filtered and saved to temp_filtered.csv
+2025-07-19 18:29:47,700 - S3 - INFO - Sent: temp_filtered_20250719_182947.csv
+2025-07-19 18:29:47,991 - S3 - INFO - Sent: s3_client.log
+2025-07-19 18:29:47,993 - S3 - INFO - Moved local_folder\data_1752924587.csv to archive_folder\data_1752924587.csv
+2025-07-19 18:29:47,993 - S3 - INFO - Deleted temp_filtered.csv
+2025-07-19 18:29:52,403 - S3 - INFO - Generated local_folder\data_1752924592.csv
+2025-07-19 18:29:52,403 - S3 - INFO - Processing file: local_folder\data_1752924592.csv
+2025-07-19 18:29:52,414 - S3 - INFO - File local_folder\data_1752924592.csv filtered and saved to temp_filtered.csv
+2025-07-19 18:29:52,875 - S3 - INFO - Sent: temp_filtered_20250719_182952.csv
+2025-07-19 18:29:53,183 - S3 - INFO - Sent: s3_client.log
+2025-07-19 18:29:53,185 - S3 - INFO - Moved local_folder\data_1752924592.csv to archive_folder\data_1752924592.csv
+2025-07-19 18:29:53,185 - S3 - INFO - Deleted temp_filtered.csv
